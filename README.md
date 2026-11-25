@@ -6,7 +6,7 @@ Busco prácticas o un primer rol junior donde seguir picando código, aprender b
 
 ---
 
-### 🛠️ Tecnologías que manejo
+###  Tecnologías que manejo
 
 **Lenguajes y Backend**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -27,7 +27,7 @@ Busco prácticas o un primer rol junior donde seguir picando código, aprender b
 
 ---
 
-### 🎯 Intereses profesionales
+###  Intereses profesionales
 - **Desarrollo Backend y Bases de Datos:** Arquitectura relacional, JDBC, APIs y optimización de consultas.
 - **Desarrollo Móvil:** Aplicaciones nativas en Android con Kotlin y Java.
 - **Desarrollo de Videojuegos:** Scripting de mecánicas, sistemas de progresión y modelado 3D (Roblox Studio / Blender).
